@@ -1,3 +1,5 @@
+mod reduce_array_to_size;
+mod reduce_array_to_size;
 mod add_two_numbers;
 mod length_of_longest_substring;
 mod max_num_of_ops2;
