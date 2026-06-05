@@ -1,4 +1,4 @@
-mod reduce_array_to_size;
+mod testies;
 mod reduce_array_to_size;
 mod add_two_numbers;
 mod length_of_longest_substring;
