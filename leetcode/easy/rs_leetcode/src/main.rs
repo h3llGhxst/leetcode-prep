@@ -1,3 +1,4 @@
+mod first_letter_twice;
 mod concatenate_array;
 mod rows_and_columns;
 mod subs_of_three;
