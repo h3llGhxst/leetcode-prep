@@ -1,3 +1,4 @@
+mod concatenate_array;
 mod rows_and_columns;
 mod subs_of_three;
 mod maxi_depth_of_paratheses;
