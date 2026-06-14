@@ -1,3 +1,5 @@
+mod uncommon_words_from_sent;
+mod pos_of_large_groups;
 mod first_letter_twice;
 mod concatenate_array;
 mod rows_and_columns;
