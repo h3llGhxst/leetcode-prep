@@ -1,0 +1,13 @@
+struct Solution;
+impl Solution {
+    pub fn number_of_steps(num: i32) -> i32 {
+        if num == 0 {
+            return 0;
+        }
+        if num % 2 == 0 {
+            1 + Solution::number_of_steps(num / 2)
+        } else {
+            1 + Solution::number_of_steps(num - 1)
+        }
+    }
+}
