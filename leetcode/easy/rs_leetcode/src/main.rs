@@ -1,3 +1,5 @@
+mod k_items;
+mod almost_equivalent_strings;
 mod maximum_product;
 mod uncommon_words_from_sent;
 mod pos_of_large_groups;
