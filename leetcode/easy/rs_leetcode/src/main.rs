@@ -1,3 +1,4 @@
+mod count_square_sum;
 mod k_items;
 mod almost_equivalent_strings;
 mod maximum_product;
