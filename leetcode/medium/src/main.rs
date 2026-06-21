@@ -1,3 +1,4 @@
+mod sum_power_of_three;
 mod subarray_sum;
 mod climbing_stairs2;
 mod testies;
