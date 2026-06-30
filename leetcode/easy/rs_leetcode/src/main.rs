@@ -1,3 +1,5 @@
+mod points_intersect_cars;
+mod min_cost_candies;
 mod fibonacci;
 mod best_day_to_buy;
 mod count_square_sum;
