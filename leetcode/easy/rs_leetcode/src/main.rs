@@ -1,3 +1,5 @@
+mod fibonacci;
+mod best_day_to_buy;
 mod count_square_sum;
 mod k_items;
 mod almost_equivalent_strings;
