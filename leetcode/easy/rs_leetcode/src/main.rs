@@ -1,3 +1,5 @@
+mod partion_array;
+mod counting_bits;
 mod points_intersect_cars;
 mod min_cost_candies;
 mod fibonacci;
