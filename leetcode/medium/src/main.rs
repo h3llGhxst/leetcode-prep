@@ -1,3 +1,4 @@
+mod teams_of_eqskills;
 mod sum_power_of_three;
 mod subarray_sum;
 mod climbing_stairs2;
