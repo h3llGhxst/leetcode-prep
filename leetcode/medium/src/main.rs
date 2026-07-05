@@ -9,6 +9,7 @@ mod add_two_numbers;
 mod length_of_longest_substring;
 mod max_num_of_ops2;
 mod longest_arith_seq;
+mod vmin_sum_after_divs;
 mod right_triangles;
 mod sub_seqs;
 mod maxi_string_pairs;
