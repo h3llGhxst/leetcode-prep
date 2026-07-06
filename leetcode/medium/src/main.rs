@@ -1,3 +1,6 @@
+mod shortest_distance_add_quer;
+mod reodering_power_of_two;
+mod k_diffs;
 mod jump_game;
 mod teams_of_eqskills;
 mod sum_power_of_three;
