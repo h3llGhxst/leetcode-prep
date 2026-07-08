@@ -1,3 +1,4 @@
+mod unique_paths;
 mod maximum_score_of_split;
 mod stone_game_vi;
 mod shortest_distance_add_quer;
