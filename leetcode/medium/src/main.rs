@@ -1,3 +1,4 @@
+mod stone_game_vi;
 mod shortest_distance_add_quer;
 mod reodering_power_of_two;
 mod k_diffs;
