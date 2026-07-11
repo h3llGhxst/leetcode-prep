@@ -1,3 +1,5 @@
+mod happy_number;
+mod furthest_from_origin;
 mod elements_appearing;
 mod bin_num_with_alts;
 mod two_of_three;
