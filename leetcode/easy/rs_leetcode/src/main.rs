@@ -1,3 +1,4 @@
+mod how_many;
 mod happy_number;
 mod furthest_from_origin;
 mod elements_appearing;
