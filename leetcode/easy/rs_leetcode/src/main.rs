@@ -1,4 +1,5 @@
 mod binary_in_order_treversal;
+mod valid_number;
 mod how_many;
 mod happy_number;
 mod furthest_from_origin;
