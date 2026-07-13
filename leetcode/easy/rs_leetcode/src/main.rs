@@ -1,3 +1,4 @@
+mod occurances_bigram;
 mod binary_in_order_treversal;
 mod valid_number;
 mod how_many;
