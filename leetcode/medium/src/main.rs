@@ -1,3 +1,4 @@
+mod double_modular_exp;
 mod number_of_subarr_k;
 mod unique_paths;
 mod maximum_score_of_split;
