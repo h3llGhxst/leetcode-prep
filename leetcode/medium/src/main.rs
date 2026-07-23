@@ -1,3 +1,4 @@
+mod maxi_points;
 mod double_modular_exp;
 mod number_of_subarr_k;
 mod unique_paths;
