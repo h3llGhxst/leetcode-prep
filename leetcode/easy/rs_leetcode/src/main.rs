@@ -1,3 +1,4 @@
+mod check;
 mod min_to_prime;
 mod number_of_strings;
 mod occurances_bigram;
