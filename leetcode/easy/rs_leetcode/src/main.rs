@@ -1,3 +1,4 @@
+mod jews_and_stones;
 mod check;
 mod min_to_prime;
 mod number_of_strings;
