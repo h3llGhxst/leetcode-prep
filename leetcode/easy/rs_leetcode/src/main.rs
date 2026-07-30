@@ -1,3 +1,4 @@
+mod add_to_arrray_form;
 mod jews_and_stones;
 mod check;
 mod min_to_prime;
