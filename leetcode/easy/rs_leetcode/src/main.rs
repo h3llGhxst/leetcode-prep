@@ -1,3 +1,4 @@
+mod smallest;
 mod check_balanced_string;
 mod max_achievable;
 mod add_to_arrray_form;
