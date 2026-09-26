@@ -1,3 +1,4 @@
+mod number_of_good_pairs;
 mod denote_dezz_baby;
 mod snake_in_matrix;
 mod check_string;
