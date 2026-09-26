@@ -1,3 +1,4 @@
+mod denote_dezz_baby;
 mod snake_in_matrix;
 mod check_string;
 mod smallest;
