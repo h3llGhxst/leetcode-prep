@@ -1,3 +1,4 @@
+mod avg_evens;
 mod convert_me;
 mod number_of_good_pairs;
 mod denote_dezz_baby;
