@@ -14,6 +14,7 @@ mod min_to_prime;
 mod number_of_strings;
 mod occurances_bigram;
 mod binary_in_order_treversal;
+mod remove_letters;
 mod valid_number;
 mod how_many;
 mod happy_number;
