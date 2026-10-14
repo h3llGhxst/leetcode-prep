@@ -1,3 +1,4 @@
+mod second_largest;
 mod avg_evens;
 mod convert_me;
 mod number_of_good_pairs;
