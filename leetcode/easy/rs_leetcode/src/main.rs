@@ -1,3 +1,4 @@
+mod maxi_six_nine;
 mod second_largest;
 mod avg_evens;
 mod convert_me;
