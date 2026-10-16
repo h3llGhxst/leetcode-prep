@@ -1,5 +1,5 @@
 package go_test
-
+//h
 func maxSum(nums []int) int {
     digits := [10]int{}
 
