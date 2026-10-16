@@ -1,3 +1,5 @@
+mod min_sum_mountain_triplets;
+mod min_garbage_collector;
 mod min_pos_or;
 mod taking_max_energy;
 mod longest_trubulant;
