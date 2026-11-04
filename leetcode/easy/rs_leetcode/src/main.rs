@@ -1,3 +1,4 @@
+mod most_freq_num;
 mod number_of_onebits;
 mod keep_mul;
 mod best_poker_hand;
