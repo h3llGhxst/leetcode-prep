@@ -1,3 +1,6 @@
+mod unvivalued_tree;
+mod closest_to_zero;
+mod ugly_number;
 mod most_freq_num;
 mod number_of_onebits;
 mod keep_mul;
