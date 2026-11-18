@@ -1,3 +1,4 @@
+mod min_dist_btwn_bst;
 mod unvivalued_tree;
 mod closest_to_zero;
 mod ugly_number;
@@ -14,6 +15,7 @@ mod number_of_good_pairs;
 mod denote_dezz_baby;
 mod snake_in_matrix;
 mod check_string;
+mod merge_two_bt;
 mod smallest;
 mod check_balanced_string;
 mod max_achievable;
